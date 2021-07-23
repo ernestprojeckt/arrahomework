@@ -14,7 +14,7 @@ var_dump($arr);
 echo '<pre>';
 
 echo "sum array 4.5.6 =". "<br>";
-var_dump($arr [4] + $arr[5]  + $arr[6]);
+var_dump($arr [3] + $arr[4]  + $arr[5]);
 
 //след часть
 
